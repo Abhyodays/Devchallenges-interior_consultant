@@ -222,6 +222,10 @@ a {
         font-size: 1.1rem;
         width: 100%;
     }
+    .fa-solid{
+        font-size: 18px;
+        padding-right: 20px;
+    }
     .footer{
         font-size: .8rem;
     }
