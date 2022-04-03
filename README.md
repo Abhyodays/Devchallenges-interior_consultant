@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](images/demo-screenshot.png)
+![screenshot](images/Screenshot.png)
 
 It is nice project to learn and implement basic HTML,CSS ans Javascript.
 In this project I learnt how to design a responsive navigation bar only using JS.
