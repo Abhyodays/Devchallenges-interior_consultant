@@ -181,7 +181,7 @@ a {
         position: absolute;
         border: 0;
         z-index: 9999;
-        inset: 1.5rem 0 auto auto;
+        inset: 7% 0 auto auto;
         color: #fff;
         background-color: transparent;
     }
