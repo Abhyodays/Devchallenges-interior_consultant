@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Interior consultant</h1>
 
 <div align="center">
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://abhyodays.github.io/Devchallenges-404-not-found/">
+    <a href="https://abhyodays.github.io/Devchallenges-interior_consultant/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Abhyodays/Devchallenges-404-not-found.git">
+    <a href="https://github.com/Abhyodays/Devchallenges-interior_consultant.git">
       Solution
     </a>
     <span> | </span>
@@ -66,3 +64,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - GitHub [@Abhyodays](https://github.com/Abhyodays)
 - Twitter [@AbhyodaySingh](https://twitter.com/AbhyodaySingh)
+- LinkedIn  [@Abhyoday](https://www.linkedin.com/in/abhyoday-singh-928b9418a/)
